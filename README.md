@@ -251,11 +251,5 @@ Built by Bhavesh Bhatt
 
 GitHub: [bhattbhavesh91](https://github.com/bhattbhavesh91?utm_source=chatgpt.com)
 
----
-
-# Short Repository Description
-
-PyTorch Edge AI projects and deployment workflows using Google AI Edge, AI Edge Torch, LiteRT, and MediaPipe for efficient on-device AI inference.
-
 [1]: https://ai.google.dev/edge/litert/models/edge_generative?hl=de&utm_source=chatgpt.com "Generative PyTorch-Modelle konvertieren  |  Google AI Edge  |  Google AI for Developers"
 [2]: https://github.com/google-ai-edge/ai-edge-torch?utm_source=chatgpt.com "GitHub - google-ai-edge/ai-edge-torch: Supporting PyTorch models with the Google AI Edge TFLite runtime."
